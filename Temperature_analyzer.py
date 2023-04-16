@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+s# -*- coding: utf-8 -*-
 """
 Created on 14 April 2023 10:06:31
 
@@ -12,7 +12,7 @@ from fitter import Fitter
 import datetime
 
 # In[] Trajectory to inforamtion excel file
-file_path = r'C:\Users\amirh\Desktop\test\Test_set_from_1990_to_2023.xlsx'
+file_path = r'address to Test_set_from_1990_to_2023.xlsx'
 
 # In[] Generate labels
 def Date():
